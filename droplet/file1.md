@@ -82,7 +82,8 @@ we will train a model on labelled images
 	*  we will use cvat to label images for training the YOLO
 		  -  labelled around 465 images 
 		  - for training -  369 images
-		  - for testing - 96 images  
+		  - for testing - 96 images
+    * you can download the labelled training data [here](https://drive.google.com/file/d/1YWVnfMuNJO_Di130NsePJgGqrJToUVVq/view?usp=sharing)  
 	*  folder structure for training yolo 8 model
 	```text
 	dataset/
