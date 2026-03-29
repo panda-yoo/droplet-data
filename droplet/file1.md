@@ -129,7 +129,7 @@ we will train a model on labelled images
 	  ![bdf99c7b5c228d819033f54db195685e.png](../images/yolo_models.png)
 	* we will use `yolov8m.pt` with 93 layers, 25,840,339 parameters 
 	* the corresponding log file has all the data regarding  model
-	  - [log file](../_resources/logs.txt)
+	  - [log file](./logs.txt)
 	* Training will  produce Pytorch Tensors `last.pt` and `best.pt`  ,so  we will chose
 	  `best.pt` for inference from `runs/detect/train/weights` folder
 
